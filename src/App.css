@@ -1,0 +1,304 @@
+.app{
+  text-align: center;
+}
+.background{
+  text-align: center;
+  background-image:url('https://mobirise.com/extensions/gamingamp/assets/images/header-bg9.jpg') !important;
+  background-size: 100% 100%;
+}
+
+#box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%; 
+}
+.head{
+  color:rgb(168, 180, 189);
+  font-weight: 600;
+  font-family: calibri;
+  margin-bottom: 25px;
+}
+.size{
+  font-size: 90px;
+}
+.Card{
+   width: 18rem;
+   height:37.5rem;
+   /* box-shadow: 1px 1px 1px #dbd9d9de; */
+   background-image:url('https://mobirise.com/extensions/gamingamp/assets/images/header-bg9.jpg');
+  
+   background-repeat: no-repeat;
+   border:1px solid rgb(83, 81, 81) !important;
+}
+.choice div{
+  background: none;
+}
+body{
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://mobirise.com/extensions/gamingamp/assets/images/header-bg9.jpg');
+}
+
+.Card-header{
+ text-align: center;
+ font-weight: 1000;
+ font-size: large;
+ font-size:22px;
+ font-family:sans-serif;
+ height:35px;
+  color:rgb(162, 186, 212);
+}
+.Card-footer{
+  text-align: center;
+  font-weight: 1000;
+  font-size: large;
+  margin-bottom: 10px;
+  font-size:20px;
+  font-family:sans-serif;
+  height:35px;
+   color:rgb(110, 137, 168);
+}
+.HeaderBtn{
+  margin-left:1rem;
+  margin-right:1rem;
+  margin-bottom:0rem;
+  margin-top:-20px;
+  border-radius:3px;
+  width:20px;
+  height:20px;
+  border:1.1px solid rgb(255, 196, 0);
+  background-color:rgb(48, 47, 47);
+}
+.Card-text{
+  padding-top:1px;
+}
+.MainCompBtn{
+  margin-left:0.4rem;
+  margin-right:0.4rem;
+  margin-bottom:10px;
+  margin-top: 10px;
+  border-radius:3px;
+  width:20px;
+  height:20px;
+  border:1.1px solid rgb(255, 196, 0);
+  background-color:rgb(22, 22, 22);
+} 
+.promt{
+  color:rgb(37, 35, 33);
+  background-color: rgb(128, 120, 120);
+  font-weight: 600;
+  border-radius:5px;
+  text-align:center;
+
+}
+.hide-box{
+  display: hidden;
+}
+.btn-c.btn-s{
+  padding: 1px; 
+  height:9px;
+  width:9px;
+  border-radius: 500px;  
+  background-color:rgb(41, 40, 40);
+  border:1.2px solid rgb(0, 0, 0);
+  margin-left:0.4rem;
+  margin-right:0.4rem;
+  margin-bottom:10px;
+  margin-top:10px;
+}
+.btn-color1{
+  width:30px;
+  height:20px;
+  background-color: #001aff;
+  border:1.5px solid rgb(192, 171, 102);
+  border-radius:3px;
+  cursor:grab;
+}
+.btn-color2{
+  width:30px;
+  height:20px;
+  background-color: #ff0000;
+  border:1.5px solid rgb(192, 171, 102);
+  border-radius:3px;
+  cursor:grab;
+}
+.btn-color3{
+  width:30px;
+  height:20px;
+  background-color: #ff3c00;
+  border:1.5px solid rgb(192, 171, 102);
+  border-radius:3px;
+  cursor:grab;
+}
+.btn-color4{
+  width:30px;
+  height:20px;
+  background-color: #5509f8;
+  border:1.5px solid rgb(192, 171, 102);
+  border-radius:3px;
+  cursor:grab;
+}
+.btn-color5{
+  width:30px;
+  height:20px;
+  background-color: #cc12ec;
+  border:1.5px solid rgb(192, 171, 102);
+  border-radius:3px;
+  cursor:grab;
+}
+.btn-color6{
+  width:30px;
+  height:20px;
+  background-color: #1590ce;
+  border:1.5px solid rgb(192, 171, 102);
+  border-radius:3px;
+  cursor:grab;
+  caret-color:rgb(221, 23, 23);
+}
+.btn-pos{
+ margin-top: 8px;
+}
+.border-des{
+  border: 1.2px solid rgb(0, 0, 255);
+}
+
+.ptr{
+  cursor:pointer !important;
+}
+.ptr1{
+  cursor:not-allowed !important;
+}
+.check{
+  width:100px;
+  height:35px;
+  background-color: rgb(0, 0, 0);
+  border-radius:2px;
+  border:1.4px solid rgb(238, 255, 2);
+  color:white;
+  font-weight: 600;
+  cursor:pointer;
+  margin-left: 1px;
+}
+.check:hover{
+  background-color: rgb(255, 255, 255);
+  color:black;
+  border:1.4px solid rgb(243, 227, 0);
+}
+.start{
+  font-weight: 600;
+  width:100px;
+  height:35px;
+  background-color: rgb(3, 2, 2);
+  border-radius:2px;
+  border:1.4px solid rgb(238, 255, 2);
+  margin-top:11px;
+  color:white;
+  margin-right: 1px;
+  cursor:pointer;
+}
+.start:hover{
+  background-color: rgb(255, 255, 255);
+  color:black;
+  border:1.4px solid rgb(243, 227, 0);
+}
+
+.fas{color:white;}
+.reg-h{color:white;}
+.reg-l{color:white;}
+.log-h{color:white;}
+.log-l{color:white;}
+
+.color2{
+  color:white;
+  font-weight: 600;
+  font-size:40px;
+  letter-spacing: 0.1rem;
+}
+.color3{
+  color:white;
+  font-weight: 400;
+}
+.reg{
+  font-weight: 600;
+}
+
+.form-control{
+  border:1px solid yellow;
+  border-radius:2px;
+  background-color: pink;
+  margin-bottom:20px;
+  letter-spacing:2px;
+}
+.form-control:focus{
+  border:1px solid yellow;
+  border-radius:4px;
+  background-color: pink;
+  box-shadow: none;
+  letter-spacing:1px;
+  color:white;
+}
+.textbox-log input{
+  border:none;
+  outline:none;
+  background:none;
+  color:white;
+  float:center;
+  font-size: 18px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-left:10px;
+  border-bottom:3px solid white;
+}
+.textbox-log input:focus{
+  border:none;
+  outline:none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  box-shadow:none;
+  font-size: 18px;
+  background:none;
+  color:white;
+  border-bottom:3px solid white;
+}
+.btn{
+  width:100%;
+  background:none;
+  color:white;
+  padding:5px;
+  font: size 5px;
+  cursor:pointer; 
+}
+
+.p-con{
+  position: relative;
+  display:flex;
+  height:100%;
+  justify-content: center;
+  text-align:center;
+  background-color: red!important;
+}
+.con-t{
+  color:white;
+  font-size:50px;
+}
+.con-r{
+  color:white;
+  font-size:20px;
+  font-weight: 600;
+}
+.con-r:hover{
+  color:white;
+  font-size:20px;
+  font-weight: 600;
+}
+.con-l{
+  color:white;
+  font-size:20px;
+  font-weight: 600;
+}
+.con-l:hover{
+  color:white;
+  font-size:20px;
+  font-weight: 600;
+}
+.con-rr{
+  margin-bottom:8px;
+}
